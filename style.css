@@ -1,0 +1,46 @@
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#title {
+    text-align: center;
+    font-style: italic;
+}
+
+#tribute-info {
+    text-align: center;
+    display: block;
+    background-color: rgb(243, 239, 245);
+}
+
+#img-caption {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title-border {
+    display: block;
+    margin-bottom: 20px;
+    background-color: rgb(243, 239, 245);
+
+}
+
+#tribute-link {
+    color: brown;
+}
+
+#first-part {
+    font-family: sans-serif;
+    color: rgba(10, 8, 2, 0.925);
+}
+
+#second-part {
+    font-family: sans-serif;
+    color: rgb(10, 8, 2, 0.925);
+}
